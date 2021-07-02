@@ -1,0 +1,25 @@
+body {
+    background: rgb(24, 23, 23);
+  }
+h1,h2 {
+    color: white;
+}
+
+.page {
+    display: flex;
+    align-items: center;
+ }
+
+.card {
+    display: flex;
+    align-items: center;
+    
+}
+
+.centered {
+    color: white;
+    text-align:center;  
+    border:1px dotted rgb(211, 201, 201); 
+    padding:8px;
+}
+    
