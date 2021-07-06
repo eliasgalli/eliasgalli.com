@@ -1,5 +1,6 @@
 import github from './github.png';
 import email from './email.png';
+import linkedin from './linkedin.png';
 import './App.css';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
           Systems Engineer | Developer
         </p>
         <div className="rrss">
+          <a href="https://www.linkedin.com/in/eliasgalli/" rel="noreferrer" target="_blank"><img src={linkedin} className="App-rrss" alt="linkedin" /></a>
           <a href="https://github.com/eliasgalli" rel="noreferrer" target="_blank"><img src={github} className="App-rrss" alt="github" /></a>
           <a href="mailto:info@eliasgalli.com"><img src={email} className="App-rrss" alt="email" /></a>
         </div>
