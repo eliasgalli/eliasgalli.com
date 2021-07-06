@@ -1,2 +1,2 @@
-Elias Galli's personal website
+My first react app as my personal website
 
