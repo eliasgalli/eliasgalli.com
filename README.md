@@ -1,2 +1,2 @@
-My first react app as my personal website
+My first react app and personal website
 
